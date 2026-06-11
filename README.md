@@ -12,10 +12,13 @@ Hands-on experience in backend development (FastAPI, Python) and mobile developm
 Python · TypeScript / JavaScript · Java · SQL · HTML/CSS
 
 **Frameworks & Libraries**  
-FastAPI · React Native/Expo · Supabase · MongoDB · LiveKit
+FastAPI · React · React Native/Expo · Supabase · SQLAlchemy · MongoDB · LiveKit
 
 **Tools**  
-Git · Bitbucket · Jira · Confluence · Azure DevOps · OpenAPI
+Git · Bitbucket · Jira · Confluence · Azure DevOps · OpenAPI · Docker
+
+**Databases**  
+PostgreSQL · MongoDB
 
 ---
 
@@ -29,11 +32,12 @@ University project at HS Offenburg.
 - **Features:** Chat, appointment booking, video calls, GDPR-compliant architecture (Art. 9)
 - **Status:** Submitted to TestFlight & Google Play Internal Testing
 
-### [assetflow-mini](https://github.com/maxritter0714-sketch/assetflow-mini) — Portfolio Dashboard
-Lightweight stock portfolio dashboard with charts, watchlist, news feed, and AI-assisted portfolio insights.
+### [assetflow-mini](https://github.com/maxritter0714-sketch/assetflow-mini) — Portfolio Research Platform
+Full-stack fintech application for portfolio management and quantitative analysis.
 
-- **Stack:** JavaScript · Financial APIs · Claude API
-- **Background:** Personal project driven by my interest in stock markets and portfolio analysis
+- **Stack:** React 18 · FastAPI · PostgreSQL · SQLAlchemy/Alembic · Ollama (local LLM)
+- **Features:** Candlestick charts, stock screener, quant analytics (Sharpe, VaR, Monte Carlo, Efficient Frontier), DB-backed market data cache, local AI narrative summaries
+- **Background:** Personal project driven by my interest in stock markets and quantitative portfolio analysis
 
 ---
 
