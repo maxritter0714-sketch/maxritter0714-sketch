@@ -14,7 +14,7 @@ Business Informatics student @ HS Offenburg (6th semester)
 
 ## 🚀 Projects
 
-### [assetflow-mini](https://github.com/...) — Portfolio Research Platform
+### [assetflow-mini](https://github.com/maxritter0714-sketch/assetflow-mini) — Portfolio Research Platform
 Full-stack fintech app for quantitative portfolio analysis.
 
 - **Stack:** React 18 · FastAPI · PostgreSQL · SQLAlchemy/Alembic · Ollama
