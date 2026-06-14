@@ -1,46 +1,34 @@
 # Hi, I'm Max 👋
 
-Business Informatics student (B.Sc.) at Hochschule Offenburg, 6th semester.  
-Hands-on experience in backend development (FastAPI, Python) and mobile development  
-(React Native, Supabase) — including an internship at Pilatus Flugzeugwerke AG.
+Business Informatics student @ HS Offenburg (6th semester) —  
+building things at the intersection of backend systems, mobile apps, and data.
 
----
-
-## 🛠️ Skills
-
-**Languages**  
-Python · TypeScript / JavaScript · Java · SQL · HTML/CSS
-
-**Frameworks & Libraries**  
-FastAPI · React · React Native/Expo · Supabase · SQLAlchemy · MongoDB · LiveKit
-
-**Tools**  
-Git · Bitbucket · Jira · Confluence · Azure DevOps · OpenAPI · Docker
-
-**Databases**  
-PostgreSQL · MongoDB
+🏢 Interned at **Pilatus Flugzeugwerke AG** (aviation, Switzerland)  
+   → built a Flight Test Inventory System with FastAPI + MongoDB  
+🚀 Currently shipping **OnDA** — a sign language interpreter platform  
+   → React Native · Supabase · LiveKit · GDPR Art. 9 compliant  
+📊 Side project: **assetflow-mini** — portfolio analytics with local LLM  
+   → Monte Carlo, Efficient Frontier, candlestick charts, AI summaries
 
 ---
 
 ## 🚀 Projects
 
-### OnDA — Sign Language Interpreter Matching App *(private repo)*
-Cross-platform mobile app (iOS & Android) connecting deaf and hard-of-hearing users with sign language interpreters.  
-University project at HS Offenburg.
+### [assetflow-mini](https://github.com/...) — Portfolio Research Platform
+Full-stack fintech app for quantitative portfolio analysis.
 
-- **Stack:** React Native/Expo · Supabase (PostgreSQL, RLS, Realtime) · LiveKit (Video/Audio)
-- **Features:** Chat, appointment booking, video calls, GDPR-compliant architecture (Art. 9)
-- **Status:** Submitted to TestFlight & Google Play Internal Testing
+- **Stack:** React 18 · FastAPI · PostgreSQL · SQLAlchemy/Alembic · Ollama
+- **Features:** Candlestick charts · Stock screener · Sharpe/VaR/Monte Carlo ·
+  Efficient Frontier · Local AI summaries
+- Built out of genuine interest in markets and quantitative methods
 
-### [assetflow-mini](https://github.com/maxritter0714-sketch/assetflow-mini) — Portfolio Research Platform
-Full-stack fintech application for portfolio management and quantitative analysis.
+### OnDA — Sign Language Interpreter App *(private, university project)*
+Cross-platform mobile app (iOS & Android) connecting deaf users with DGS interpreters.
 
-- **Stack:** React 18 · FastAPI · PostgreSQL · SQLAlchemy/Alembic · Ollama (local LLM)
-- **Features:** Candlestick charts, stock screener, quant analytics (Sharpe, VaR, Monte Carlo, Efficient Frontier), DB-backed market data cache, local AI narrative summaries
-- **Background:** Personal project driven by my interest in stock markets and quantitative portfolio analysis
+- **Stack:** React Native/Expo · Supabase (RLS, Realtime) · LiveKit
+- **GDPR Art. 9** compliant architecture for sensitive health/disability data
+- Submitted to TestFlight & Google Play Internal Testing
 
 ---
 
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-maxritter0714%40gmail.com-blue?style=flat&logo=gmail)](mailto:maxritter0714@gmail.com)
+📫 maxritter0714@gmail.com
