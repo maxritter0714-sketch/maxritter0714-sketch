@@ -1,10 +1,10 @@
 # Hi, I'm Max 👋
 
-Business Informatics student @ HS Offenburg (6th semester) —  
-building things at the intersection of backend systems, mobile apps, and data.
+Business Informatics student @ HS Offenburg (6th semester)
 
 🏢 Interned at **Pilatus Flugzeugwerke AG** (aviation, Switzerland)  
    → built a Flight Test Inventory System with FastAPI + MongoDB  
+🔧 Werkstudent at **Herrenknecht AG** — test automation with Selenium/Katalon
 🚀 Currently shipping **OnDA** — a sign language interpreter platform  
    → React Native · Supabase · LiveKit · GDPR Art. 9 compliant  
 📊 Side project: **assetflow-mini** — portfolio analytics with local LLM  
@@ -23,11 +23,12 @@ Full-stack fintech app for quantitative portfolio analysis.
 - Built out of genuine interest in markets and quantitative methods
 
 ### OnDA — Sign Language Interpreter App *(private, university project)*
-Cross-platform mobile app (iOS & Android) connecting deaf users with DGS interpreters.
+Cross-platform mobile app (iOS & Android) connecting deaf and hard-of-hearing 
+users with DGS interpreters — built in a 3-person team.
 
 - **Stack:** React Native/Expo · Supabase (RLS, Realtime) · LiveKit
-- **GDPR Art. 9** compliant architecture for sensitive health/disability data
-- Submitted to TestFlight & Google Play Internal Testing
+- Currently in beta testing with ~10 testers via Barrierefreie Kommunikation e.V.
+- GDPR Art. 9 compliant (sensitive disability/health data)
 
 ---
 
