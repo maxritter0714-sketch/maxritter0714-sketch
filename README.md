@@ -24,7 +24,7 @@ Fintech app for quantitative portfolio analysis. (early stage)
 
 ### OnDA — Sign Language Interpreter Booking Platform *(private, university project)*
 Cross-platform mobile app (iOS & Android) that connects deaf and hard-of-hearing 
-users with DGS interpreters for booked video call sessions — built in a 3-person team.
+users with DGS interpreters for real life appointments or in app video call sessions.
 
 - **Stack:** React Native/Expo · Supabase (RLS, Realtime) · LiveKit (self-hosted, DSGVO-compliant infra)
 - Live in closed testing on Google Play & TestFlight
