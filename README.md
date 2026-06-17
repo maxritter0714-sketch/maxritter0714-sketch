@@ -5,7 +5,7 @@ Business Informatics student @ HS Offenburg (6th semester)
 
 ## 🚀 Projects
 
-### [Portfolio Email Agent](https://github.com/maxritter0714-sketch/portfolio-email-agent) — Automated Portfolio Reporting
+### [portfolio-email-agent](https://github.com/maxritter0714-sketch/portfolio-email-agent) — Automated Portfolio Reporting
 Self-hosted agent that generates and emails a fortnightly editorial-style portfolio report, scheduled via GitHub Actions.
 
 - **Stack:** Python · yfinance · NewsAPI · Claude API · matplotlib · pytest
