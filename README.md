@@ -14,6 +14,7 @@ Self-hosted agent that generates and emails a fortnightly editorial-style portfo
   AI-filtered news relevance · Claude-generated analysis & actionable recommendations
 - Runs fully in the cloud with no local machine required; holdings data kept private via a separate data repo
 
+
 ### [assetflow-mini](https://github.com/maxritter0714-sketch/assetflow-mini) — Portfolio Research Platform
 Fintech app for quantitative portfolio analysis. (early stage)
 
@@ -21,6 +22,7 @@ Fintech app for quantitative portfolio analysis. (early stage)
 - **Features:** Candlestick charts · Stock screener · Sharpe/VaR/Monte Carlo ·
   Efficient Frontier · Local AI summaries
 - Building out of genuine interest in markets and quantitative methods
+
 
 ### OnDA — Sign Language Interpreter Booking Platform *(private, university project)*
 Cross-platform mobile app (iOS & Android) that connects deaf and hard-of-hearing 
