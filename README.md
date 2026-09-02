@@ -14,7 +14,7 @@ Self-hosted agent that generates and emails a fortnightly editorial-style portfo
   AI-filtered news relevance · Claude-generated analysis & actionable recommendations
 - Runs fully in the cloud with no local machine required; holdings data kept private via a separate data repo
 
-### OnDA — Sign Language Interpreter Booking Platform *(private, university project)*
+### OnDA — Sign Language Interpreter Booking Platform *(private)*
 Cross-platform mobile app (iOS & Android) that connects deaf and hard-of-hearing 
 users with DGS interpreters for real life appointments or in app video call sessions.
 
