@@ -3,7 +3,7 @@
 Business Informatics student @ HS Offenburg (6th semester)
 ---
 
-## 🚀 Projects
+## 🚀 Current public Projects
 
 ### [portfolio-email-agent](https://github.com/maxritter0714-sketch/portfolio-email-agent) — Automated Portfolio Reporting
 Self-hosted agent that generates and emails a fortnightly editorial-style portfolio report, scheduled via GitHub Actions.
