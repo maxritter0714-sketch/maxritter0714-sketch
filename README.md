@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-Business Informatics student @ HS Offenburg (6th semester)
+Business Informatics student @ HS Offenburg
 ---
 
 ## 🚀 Projects
