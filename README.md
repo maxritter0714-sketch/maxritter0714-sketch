@@ -14,11 +14,11 @@ Self-hosted agent that generates and emails a fortnightly editorial-style portfo
   AI-filtered news relevance · Claude-generated analysis & actionable recommendations
 - Runs fully in the cloud with no local machine required; holdings data kept private via a separate data repo
 
-### [int8-quantization-pytorch9](https://github.com/maxritter0714-sketch/int8-quantization-pytorch) — INT8 quantization benchmarks on CPU
+### [int8-quantization-pytorch](https://github.com/maxritter0714-sketch/int8-quantization-pytorch) — INT8 quantization benchmarks on CPU
 
-- **Stack**: Python · PyTorch · Hugging Face · pytest · GitHub Actions
-- **Methods**: dynamic & static PTQ · QAT · KV-cache INT8
-- **Results**: DistilBERT 255 → 132 MB · 1.7x lower latency · −1.1 pp accuracy; KV cache ~7x faster generation
+- **Stack:** Python · PyTorch · Hugging Face · pytest · GitHub Actions
+- **Methods:** dynamic & static PTQ · QAT · KV-cache INT8
+- **Results:** DistilBERT 255 → 132 MB · 1.7x lower latency · −1.03 pp accuracy; KV cache 7x faster decode vs. no cache; INT8 KV cache 4x smaller at +0.33 perplexity
 
 ### OnDA — Sign Language Interpreter Booking Platform *(private)*
 Cross-platform mobile app (iOS & Android) that connects deaf and hard-of-hearing 
